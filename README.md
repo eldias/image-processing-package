@@ -1,24 +1,26 @@
 # image-processing-package
 
-Description. 
-The package image-processing-package is used to:
-	Processing:
+## Description. 
+**The package image-processing-package is used to:**
+- *Processing*:
 	- Histogram matching;
 	- Structure similarity;
 	- Resize images.
-	Utils:
+- *Utils*:
 	- Read image;
 	- Save image;
 	- Plot image;
 	- Plot histogram;
 	- Plot result.
 
-O pacote image-processing-package é usado para:
-	Processamento:
+**O pacote image-processing-package é usado para:**
+
+- *Processamento*:
 	- Comparação de histograma;
 	- Similaridade de estrutura;
 	- Redefinir tamanho da imagem.
-	Utilidades:
+
+- *Utilidades*:
 	- Ler imagem;
 	- Salvar imagem;
 	- Gerar gráfico de imagem;
