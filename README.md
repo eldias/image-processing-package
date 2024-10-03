@@ -1,4 +1,4 @@
-# package_name
+# image-processing-package
 
 Description. 
 The package image-processing-package is used to:
